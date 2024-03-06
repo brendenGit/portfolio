@@ -1,0 +1,17 @@
+#root {
+  margin: 0 auto;
+}
+
+.glow {
+  position: absolute;
+  top: -65px;
+  left: -650px;
+  width: 650px;
+  height: 650px;
+  border-radius: 50%;
+  pointer-events: none;
+  mix-blend-mode: screen;
+  background: radial-gradient(circle, rgba(255,255,255,0.06) 0%, rgba(255,255,255,0) 50%);
+  transform: translate(-50%, -50%);
+  transition: width 0.1s, height 0.1s, opacity 0.3s;
+}
