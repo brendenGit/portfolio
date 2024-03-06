@@ -1,8 +1,20 @@
-# React + Vite
+# Portfolio 
+This is my portfolio website built with React and Material UI as a single-page application 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Sections 
+- About me
+- My current featured projects
+- My most recent and relevant experience
+- View my full resume
 
-Currently, two official plugins are available:
+## Technologies Used
+- React + Vite
+- Material UI
+- HTML/CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Setup
+To run this project locally, clone the repository and run the following commands: 
+```bash
+ npm install
+npm run dev
+```
