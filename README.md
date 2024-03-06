@@ -15,6 +15,6 @@ This is my portfolio website built with React and Material UI as a single-page a
 ## Setup
 To run this project locally, clone the repository and run the following commands: 
 ```bash
- npm install
+npm install
 npm run dev
 ```
