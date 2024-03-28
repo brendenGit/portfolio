@@ -33,7 +33,7 @@ export default function Me({ resumeData }) {
 
     return (
         <Box>
-            <img src="/me.PNG" alt="Brenden with his dog" style={styles.meImg} />
+            <img src="/me.png" alt="Brenden with his dog" style={styles.meImg} />
             <Box sx={{
                 position: { md: isScrolling ? 'fixed' : 'relative' },
                 top: { md: isScrolling ? '5vh' : '' },

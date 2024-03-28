@@ -15,7 +15,7 @@ export default function ResumeGrid() {
     const isSmallScreen = useMediaQuery('(max-width:900px)');
 
     const openResume = () => {
-        window.open('/Brenden Arias Software Engineer Resume.pdf', '_blank');
+        window.open('/Brenden Arias Software Engineer Resume 03-24.pdf', '_blank');
     };
 
     return (

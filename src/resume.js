@@ -27,7 +27,7 @@ const resume = {
             "description": "A web application for searching, cooking, and saving food/drink recipes - Makes grocery shopping easier",
             "date": "Feb 2024 — Mar 2024",
             "thumbnail": "/skillet.png",
-            "url": "https://github.com/brendenGit/Skillet",
+            "url": "https://skillet-1.onrender.com/",
             "skills": [
                 "JavaScript",
                 "React",
